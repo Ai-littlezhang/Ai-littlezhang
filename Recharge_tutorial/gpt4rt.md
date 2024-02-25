@@ -2,7 +2,7 @@
 
 ## &#x20;一.GPT4的作用
 
-（PS:一键注册可以去 [https://bewildcard.com/i/888GPT888](https://bewildcard.com/i/GPT888) 输入888GPT888邀请码可以抵扣2美元）
+（PS:一键注册可以去 [https://bewildcard.com/i/888GPT888](https://bewildcard.com/i/888GPT888) 输入888GPT888邀请码可以抵扣2美元）
 
 1.  解锁更强的对话功能,解锁更快的对话体验
 2.  解锁数万种定制化GPT 无论是论文,牙医,做饭,教学,覆盖各行各业
@@ -30,7 +30,7 @@ img1
 
 1.前往WildCard网站开通国外虚拟银行卡(国外大部分支付方式都是银行卡或paypal,开通后可以支付大部分的付费功能 midjoureny,onlyfans等)
 
-注册链接:[https://bewildcard.com/i/888GPT888](https://bewildcard.com/i/GPT888)
+注册链接:[https://bewildcard.com/i/888GPT888](https://bewildcard.com/i/888GPT888)
 
 **输入888GPT888邀请码可以抵扣2美元**
 
