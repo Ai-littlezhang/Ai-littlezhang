@@ -24,12 +24,12 @@
 
 当然在我的努力下也是成功开通
 
-img1
+![0](img/gpt4rt/0.png)
 
 ### **一键开通方法**
 
 1.前往WildCard网站开通国外虚拟银行卡(国外大部分支付方式都是银行卡或paypal,开通后可以支付大部分的付费功能 midjoureny,onlyfans等)
-
+**正规平台 可以使用支付宝进行充值**
 注册链接:[https://bewildcard.com/i/888GPT888](https://bewildcard.com/i/888GPT888)
 
 **输入888GPT888邀请码可以抵扣2美元**
