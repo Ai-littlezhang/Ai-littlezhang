@@ -4,7 +4,7 @@
 👏欢迎关注个人博客主页:[www.baidu.com](www.baidu.com)
 
 ## &#x20;GPT等国外软件充值教程
-[GP4升级指南](docs/guide.md)
+[GP4升级指南](Recharge_tutorial/gpt4rt.md)
 
 
 ## &#x20;GPT数据分析常用提示词
@@ -15,4 +15,4 @@
 🔥开发中
 ## 微信联系方式
 
-![微信联系方式](img/QRcode.jpg "微信号:AI-littlezhang")
+![微信联系方式](wechat_code/QRcode.jpg "微信号:AI-littlezhang")
