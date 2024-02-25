@@ -9,6 +9,8 @@
 
 ## &#x20;GPT数据分析常用提示词
 [减肥数据分析](data_analysis/wln.md)
+
+
 🔥持续开发中
 
 ## &#x20;GPTs训练方法 训练属于自己的GPT
@@ -23,4 +25,6 @@
 
 ## 微信联系方式
 **微信号:AI-littlezhang**
+
+
 ![微信联系方式](wechat_code/QRcode.jpg "微信号:AI-littlezhang")

@@ -3,7 +3,7 @@ wln -> weight loss nutritionist
 # 让GPT参与数据分析并做你的减肥营养师
 还不知道怎么升级GPT4的可以点击：[GP4升级指南](../Recharge_tutorial/gpt4rt.md)
 
-GPT3.5注册教程
+
 
 ## 1.给出你的减肥数据或目标期望(数据可以没有)：
 
