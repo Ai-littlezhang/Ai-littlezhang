@@ -1,16 +1,17 @@
-### Hi there 👋
+# **GPT midjoureny  等各类AI教程合集**
 
-<!--
-**Ai-littlezhang/Ai-littlezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👏欢迎关注个人博客主页:[www.baidu.com](a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x20;GPT等国外软件充值教程
+
+
+## &#x20;GPT数据分析常用提示词
+
+
+## &#x20;GPTs训练方法 训练属于自己的GPT
+
+
+## 微信联系方式
+
+![微信联系方式](wechat_code/QRcode.jpg "这是一个示例图片")
