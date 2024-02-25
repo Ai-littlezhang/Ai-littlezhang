@@ -85,4 +85,5 @@
 
 
 ## &#x20;如果你觉的充值复杂,或环境受限可以联系微信直接购买成品账号
+**微信号:AI-littlezhang**
 ![微信联系方式](img/QRcode.jpg "微信号:AI-littlezhang")
